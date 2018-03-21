@@ -1,0 +1,1 @@
+require('questionAndAnswer/question').questionViewCreation();
